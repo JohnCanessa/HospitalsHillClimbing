@@ -9,6 +9,6 @@ T.B.D.
 
 If you are interested in Python and ML I would suggest you take the course.
 
-ENjoy;
+Enjoy;
 
 John
